@@ -200,4 +200,8 @@
 			能降低Wine Windows平台程式相容層 使用障礙的軟體
 		官方網站
 			http://www.playonlinux.com/
-	
+教學相關軟體 | Teaching related software
+	螢幕廣播與電腦控制軟體
+		iTALC螢幕廣播與電腦控制軟體
+			官方網站 | Official site
+				http://italc.sourceforge.net/
